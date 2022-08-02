@@ -51,7 +51,7 @@ function User() {
               </figure>
               <div className='card-body justify-end'>
                 <h2 className='card-title mb-0 text-white'>{name}</h2>
-                <p className='text-white'>{login}</p>
+                <p className='text-white flex-grow-0'>{login}</p>
               </div>
             </div>
           </div>
