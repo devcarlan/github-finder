@@ -27,7 +27,7 @@ function UserSearch() {
   }
 
   return (
-    <div className='mx-autp grid grid-cols-1 mb-8 gap-8'>
+    <div className='grid grid-cols-1 mb-8 gap-8'>
       <div>
         <form onSubmit={handleSubmit}>
           <div className='form-control'>
